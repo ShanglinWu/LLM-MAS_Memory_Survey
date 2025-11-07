@@ -4,18 +4,32 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 
 ## Applications
 ### Education
-|Title|Type|Summary|
-|---|---|---|
-|[LLM Agents for Education: Advances and Applications](https://arxiv.org/pdf/2503.11733)|Survey|A survey on LLM-agents for education. Given taxonomies and paper review, can be used for paper collection|
-|[Foundations of PEERS: Assessing LLM Role Performance in Educational Simulations](https://aclanthology.org/2025.acl-srw.66.pdf)|Teaching Assistance||
-|[EduAgent: Generative Student Agents in Learning](https://arxiv.org/pdf/2404.07963)|Teaching Assistance||
-|[TeachTune: Reviewing Pedagogical Agents Against Diverse Student Profiles with Simulated Students](https://arxiv.org/pdf/2410.04078)|Teaching Assistance||
-|[Cgmi: Configurable general multi-agent interaction framework](https://arxiv.org/pdf/2308.12503)|Teaching Assistance||
-|[Classroom Simulacra: Building Contextual Student Generative Agents in Online Education for Learning Behavioral Simulation](https://dl.acm.org/doi/pdf/10.1145/3706598.3713773)|Teaching Assistance(Classroom Simulation)||
-|[Exploring LLM-based Student Simulation for Metacognitive Cultivation](https://arxiv.org/pdf/2502.11678?)|Teaching Assistance||
-|[LLM-powered Multi-agent Framework for Goal-oriented Learning in Intelligent Tutoring System](https://arxiv.org/pdf/2501.15749?)|Student Support||
-|[OATutor: An Open-source Adaptive Tutoring System and Curated Content Library for Learning Sciences Research](https://dl.acm.org/doi/pdf/10.1145/3544548.3581574)|Student Support||
-||Student Support||
-||Student Support||
-||Student Support||
+|Title|Type|
+|---|---|
+|[LLM Agents for Education: Advances and Applications](https://arxiv.org/pdf/2503.11733)|Survey|
+|[Foundations of PEERS: Assessing LLM Role Performance in Educational Simulations](https://aclanthology.org/2025.acl-srw.66.pdf)|Teaching Assistance|
+|[EduAgent: Generative Student Agents in Learning](https://arxiv.org/pdf/2404.07963)|Teaching Assistance|
+|[TeachTune: Reviewing Pedagogical Agents Against Diverse Student Profiles with Simulated Students](https://arxiv.org/pdf/2410.04078)|Teaching Assistance|
+|[Cgmi: Configurable general multi-agent interaction framework](https://arxiv.org/pdf/2308.12503)|Teaching Assistance|
+|[Classroom Simulacra: Building Contextual Student Generative Agents in Online Education for Learning Behavioral Simulation](https://dl.acm.org/doi/pdf/10.1145/3706598.3713773)|Teaching Assistance(Classroom Simulation)|
+|[Exploring LLM-based Student Simulation for Metacognitive Cultivation](https://arxiv.org/pdf/2502.11678?)|Teaching Assistance|
+|[LLM-powered Multi-agent Framework for Goal-oriented Learning in Intelligent Tutoring System](https://arxiv.org/pdf/2501.15749?)|Student Support|
+|[OATutor: An Open-source Adaptive Tutoring System and Curated Content Library for Learning Sciences Research](https://dl.acm.org/doi/pdf/10.1145/3544548.3581574)|Student Support|
+|[Content Knowledge Identification with Multi-Agent Large Language Models (LLMs)](https://arxiv.org/pdf/2404.07960)|Student Support|
+|[From Correctness to Comprehension: AI Agents for Personalized Error Diagnosis in Education](https://arxiv.org/pdf/2502.13789)|Student Support|
+|[MACM: Utilizing a Multi-Agent System for Condition Mining in Solving Complex Mathematical Problems](https://arxiv.org/pdf/2404.04735)|Domain-Specific Educational Agents(Math)|
+|[ProtChat: An AI Multi-Agent for Automated Protein Analysis Leveraging GPT-4 and Protein Language Model](https://pubmed.ncbi.nlm.nih.gov/39690112/)|Domain-Specific Educational Agents(Biology)|
+|[PROTAGENTS: PROTEIN DISCOVERY VIA LARGE LANGUAGE MODEL MULTI-AGENT COLLABORATIONS COMBINING PHYSICS AND MACHINE LEARNING](https://arxiv.org/pdf/2402.04268v1)|Domain-Specific Educational Agents(Biology)|
+|[ExpertEase: A Multi-Agent Framework for Grade-Specific Document Simplification with Large Language Models](https://aclanthology.org/2024.findings-emnlp.530.pdf)|Agent for Language Learning|
+|[“My Grade is Wrong!”: A Contestable AI Framework for Interactive Feedback in Evaluating Student Essays](https://arxiv.org/html/2409.07453)|Agent for Language Learning|
+|[Debate-to-Write: A Persona-Driven Multi-Agent Framework for Diverse Argument Generation](https://aclanthology.org/2025.coling-main.314.pdf)|Agent for Language Learning|
+|[(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts](https://arxiv.org/pdf/2405.11804)|Agent for Language Learning|
+|[CMAT: A Multi-Agent Collaboration Tuning Framework for Enhancing Small Language Models](https://arxiv.org/pdf/2404.01663)|Agent for Language Learning|
+|[MEDCO: Medical Education Copilots Based on A Multi-Agent Framework](https://arxiv.org/pdf/2408.12496)|Agent for Professional Development(Medical)|
+|[LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation](https://arxiv.org/pdf/2407.16252)|Agent for Professional Development(Law)|
+|[AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents](https://arxiv.org/pdf/2408.08089)|Agent for Professional Development(Law)|
+|[AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation](https://arxiv.org/pdf/2403.02959)|Agent for Professional Development(Law)|
+|[Agents on the Bench: Large Language Model Based Multi Agent Framework for Trustworthy Digital Justice](https://arxiv.org/pdf/2412.18697)|Agent for Professional Development(Law)|
+
+
 
