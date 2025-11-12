@@ -1,10 +1,58 @@
 # Memory in LLM-based Multi-agent Systems: Mechanisms, Challenges, and Collective Intelligence
 
 This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanisms, Challenges, and Collective Intelligence". In this repo we maintain a dynamically expanded paper list. 
+
+
+
 ## Related Surveys
 |Title|Type|
 |---|---|
 |[Multi-Agent Collaboration Mechanisms: A Survey of LLMs](https://arxiv.org/pdf/2501.06322)|Multi-agent collaboration|
+|[A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges](https://link.springer.com/content/pdf/10.1007/s44336-024-00009-2.pdf)|LLM-MAS|
+|[LLM Multi-Agent Systems: Challenges and Open Problems](https://arxiv.org/pdf/2402.03578)|LLM-MAS|
+|[A survey on the memory mechanism of large language model-based agents](https://arxiv.org/pdf/2404.13501)|Agent memory|
+
+## Architectures and Design Space
+|Title|Type|
+|---|---|
+|[A-mem: Agentic memory for llm agents](https://arxiv.org/pdf/2502.12110)||
+|[Agent-Arena: A General Framework for Evaluating Control Algorithms](https://arxiv.org/pdf/2504.06468?)||
+|[Agentnet: Decentralized evolutionary coordination for llm-based multi-agent systems](https://arxiv.org/pdf/2504.00587)||
+|[Autogen: Enabling next-gen LLM applications via multi-agent conversations](https://openreview.net/pdf?id=BAakY1hNKS)||
+|[Avalonbench: Evaluating llms playing the game of avalon](https://arxiv.org/pdf/2310.05036)||
+|[Chain of agents: Large language models collaborating on long-context tasks](https://proceedings.neurips.cc/paper_files/paper/2024/file/ee71a4b14ec26710b39ee6be113d7750-Paper-Conference.pdf)||
+|[Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control](https://arxiv.org/pdf/2505.18279)||
+|[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/pdf/2402.17753)||
+|[Exploring Advanced LLM Multi-Agent Systems Based on Blackboard Architecture](https://arxiv.org/pdf/2507.01701)||
+|[Memory as a Service (MaaS): Rethinking Contextual Memory as Service-Oriented Modules for Collaborative Agents](https://arxiv.org/pdf/2506.22815)||
+|[G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://arxiv.org/pdf/2506.07398)||
+|[Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents](https://arxiv.org/pdf/2507.22925?)||
+|[How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior](https://arxiv.org/pdf/2505.16067)||
+|[Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory](https://arxiv.org/pdf/2508.08997?)||
+|[LangChain vs. LangGraph vs. LangSmith: Taxonomies of Agentic AI Toolchains for End-to-End Orchestration](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.175695645.52670060)||
+|[Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://arxiv.org/pdf/2411.04468?)||
+|[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/pdf/2504.19413?)||
+|[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/pdf/2508.16153)||
+|[Memory Sharing for Large Language Model based Agents](https://arxiv.org/pdf/2404.09982)||
+|[MetaGPT: Meta programming for a multi-agent collaborative framework](https://openreview.net/pdf?id=VtmBAGCN7o)||
+|[MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/pdf/2507.07957?)||
+|[ProAgent: Building Proactive Cooperative Agents with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/download/29710/31219)||
+|[RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory](https://arxiv.org/pdf/2508.04903)||
+|[How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)||
+|[RoCo: Dialectic Multi-Robot Collaboration with Large Language Models](https://arxiv.org/pdf/2307.04738)||
+|[SRMT: Shared Memory for Multi-agent Lifelong Pathfinding](https://arxiv.org/pdf/2501.13200?)||
+|[The Role of Social Learning and Collective Norm Formation in Fostering Cooperation in LLM Multi-Agent Systems](https://arxiv.org/pdf/2510.14401?)||
+
+
+
+
+
+
+## Memory enabled Capabilities
+|Title|Type|
+|---|---|
+|[In-the-Flow Agentic System Optimization for Effective Planning and Tool Use](https://arxiv.org/pdf/2510.05592)||
+
 
 ## Applications
 ### Education
@@ -76,10 +124,15 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |[Agent laboratory: Using llm agents as research assistants](https://arxiv.org/pdf/2501.04227)||
 |[The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292)||
 |[How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)||
+|[Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory](https://arxiv.org/pdf/2508.08997?)||
+|[LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation](https://arxiv.org/pdf/2510.04851?)||
+|[The Role of Social Learning and Collective Norm Formation in Fostering Cooperation in LLM Multi-Agent Systems](https://arxiv.org/pdf/2510.14401?)||
+
 
 ### Robotics
 |Title|Type|
 |---|---|
 |[Generative Multi-Agent Collaboration in Embodied AI: A Systematic Review](https://www.ijcai.org/proceedings/2025/1190.pdf#:~:text=2024a,Centralized%20models%20can)|Survey|
 |[Malmm: Multi-agent large language models for zero-shot robotics manipulation](https://arxiv.org/pdf/2411.17636)||
+|[Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems?](https://arxiv.org/pdf/2309.15943)||
 
