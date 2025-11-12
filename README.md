@@ -41,5 +41,31 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |[Agents on the Bench: Large Language Model Based Multi Agent Framework for Trustworthy Digital Justice](https://arxiv.org/pdf/2412.18697)|Agent for Professional Development(Law)|
 
 
+### Medicine
+|Title|Type|
+|---|---|
+|[A Survey of LLM-based Multi-agent Systems in Medicine](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176089343.36199495/v1)|Survey|
+|[Multiagent AI Systems in Health Care: Envisioning Next-Generation Intelligence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12360800/)|Survey|
+|[CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction using longitudinal clinical notes](https://www.nature.com/articles/s41746-025-01940-4)||
+|[MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://aclanthology.org/2024.findings-acl.33/)||
+|[MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents](https://arxiv.org/pdf/2501.14654)|Evaluation|
+
+
+### Simulation and Environments
+|Title|Type|
+|---|---|
+|[Integrating LLM in Agent-Based Social Simulation: Opportunities and Challenges](https://arxiv.org/pdf/2507.19364)|Survey|
+|[Generative Agents: Interactive Simulacra of Human Behavior](https://dl.acm.org/doi/pdf/10.1145/3586183.3606763)|Social Simulation|
+|[Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291)|Game|
+|[Artificial Leviathan: Exploring Social Evolution of LLM Agents Through the Lens of Hobbesian Social Contract Theory](https://arxiv.org/pdf/2406.14373)||
+|[AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society](https://arxiv.org/pdf/2502.08691)||
+|[Social Simulacra: Creating Populated Prototypes for Social Computing Systems](https://arxiv.org/pdf/2208.04024)||
+|[CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf)||
+|[Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/pdf/2307.05300)||
+
+### Scientific Discovery
+|Title|Type|
+|---|---|
+|[Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents](https://arxiv.org/pdf/2503.24047v1)||
 
 
