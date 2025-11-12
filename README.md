@@ -62,10 +62,24 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |[Social Simulacra: Creating Populated Prototypes for Social Computing Systems](https://arxiv.org/pdf/2208.04024)||
 |[CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf)||
 |[Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/pdf/2307.05300)||
+|[AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios](https://aclanthology.org/2025.naacl-long.257.pdf)||
+
 
 ### Scientific Discovery
 |Title|Type|
 |---|---|
-|[Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents](https://arxiv.org/pdf/2503.24047v1)||
+|[Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents](https://arxiv.org/pdf/2503.24047v1)|Survey|
+|[Towards an AI co-scientist](https://arxiv.org/pdf/2502.18864)||
+|[Many Heads Are Better Than One: Improved Scientific Idea Generation by A LLM-Based Multi-Agent System](https://arxiv.org/pdf/2410.09403)||
+|[AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://proceedings.iclr.cc/paper_files/paper/2024/file/578e65cdee35d00c708d4c64bce32971-Paper-Conference.pdf)||
+|[SciAgents: Automating Scientific Discovery Through Bioinspired Multi-Agent Intelligent Graph Reasoning](https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.202413523)||
+|[Agent laboratory: Using llm agents as research assistants](https://arxiv.org/pdf/2501.04227)||
+|[The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292)||
+|[How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)||
 
+### Robotics
+|Title|Type|
+|---|---|
+|[Generative Multi-Agent Collaboration in Embodied AI: A Systematic Review](https://www.ijcai.org/proceedings/2025/1190.pdf#:~:text=2024a,Centralized%20models%20can)|Survey|
+|[Malmm: Multi-agent large language models for zero-shot robotics manipulation](https://arxiv.org/pdf/2411.17636)||
 
