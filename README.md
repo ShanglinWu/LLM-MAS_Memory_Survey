@@ -42,6 +42,10 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |[RoCo: Dialectic Multi-Robot Collaboration with Large Language Models](https://arxiv.org/pdf/2307.04738)||
 |[SRMT: Shared Memory for Multi-agent Lifelong Pathfinding](https://arxiv.org/pdf/2501.13200?)||
 |[The Role of Social Learning and Collective Norm Formation in Fostering Cooperation in LLM Multi-Agent Systems](https://arxiv.org/pdf/2510.14401?)||
+|[Personal llm agents: Insights and survey about the capability, efficiency and security](https://arxiv.org/pdf/2401.05459)||
+|[Improving factuality and reasoning in language models through multiagent debate](https://openreview.net/pdf?id=zj7YuTE4t8)||
+|[Encouraging divergent thinking in large language models through multi-agent debate](https://aclanthology.org/2024.emnlp-main.992.pdf)||
+|[Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)||
 
 
 
