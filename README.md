@@ -28,20 +28,19 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |---|---|
 |[A-mem: Agentic memory for llm agents](https://arxiv.org/pdf/2502.12110)|Shared|
 |[Agentnet: Decentralized evolutionary coordination for llm-based multi-agent systems](https://arxiv.org/pdf/2504.00587)|Local(With KG)|
-|[Autogen: Enabling next-gen LLM applications via multi-agent conversations](https://openreview.net/pdf?id=BAakY1hNKS)||
-|[Avalonbench: Evaluating llms playing the game of avalon](https://arxiv.org/pdf/2310.05036)||
-|[Chain of agents: Large language models collaborating on long-context tasks](https://proceedings.neurips.cc/paper_files/paper/2024/file/ee71a4b14ec26710b39ee6be113d7750-Paper-Conference.pdf)||
-|[Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control](https://arxiv.org/pdf/2505.18279)||
-|[CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf)||
-|[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/pdf/2402.17753)||
-|[Exploring Advanced LLM Multi-Agent Systems Based on Blackboard Architecture](https://arxiv.org/pdf/2507.01701)||
-|[Memory as a Service (MaaS): Rethinking Contextual Memory as Service-Oriented Modules for Collaborative Agents](https://arxiv.org/pdf/2506.22815)||
+|[Autogen: Enabling next-gen LLM applications via multi-agent conversations](https://openreview.net/pdf?id=BAakY1hNKS)|Local|
+|[Avalonbench: Evaluating llms playing the game of avalon](https://arxiv.org/pdf/2310.05036)|Local(With summarization)|
+|[Chain of agents: Large language models collaborating on long-context tasks](https://proceedings.neurips.cc/paper_files/paper/2024/file/ee71a4b14ec26710b39ee6be113d7750-Paper-Conference.pdf)|Local|
+|[Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control](https://arxiv.org/pdf/2505.18279)|Shared|
+|[CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf)|Local|
+|[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/pdf/2402.17753)|Local|
+|[Exploring Advanced LLM Multi-Agent Systems Based on Blackboard Architecture](https://arxiv.org/pdf/2507.01701)|Shared|
+|[Memory as a Service (MaaS): Rethinking Contextual Memory as Service-Oriented Modules for Collaborative Agents](https://arxiv.org/pdf/2506.22815)|Hybrid|
 |[G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://arxiv.org/pdf/2506.07398)||
-|[Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents](https://arxiv.org/pdf/2507.22925?)||
-|[How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior](https://arxiv.org/pdf/2505.16067)||
-|[Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory](https://arxiv.org/pdf/2508.08997?)||
+|[VOYAGER: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291)|Shared(skill library)|
+|[Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory](https://arxiv.org/pdf/2508.08997?)|Local|
 |[LangChain vs. LangGraph vs. LangSmith: Taxonomies of Agentic AI Toolchains for End-to-End Orchestration](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.175695645.52670060)||
-|[LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation](https://arxiv.org/pdf/2510.04851?)||
+|[LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation](https://arxiv.org/pdf/2510.04851?)|Hybrid(orchestrator)|
 |[Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://arxiv.org/pdf/2411.04468?)||
 |[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/pdf/2504.19413?)||
 |[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/pdf/2508.16153)||
@@ -82,6 +81,12 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |---|---|
 |[In-the-Flow Agentic System Optimization for Effective Planning and Tool Use](https://arxiv.org/pdf/2510.05592)||
 
+
+## Evaluation
+|Title|Type|
+|---|---|
+|[Avalonbench: Evaluating llms playing the game of avalon](https://arxiv.org/pdf/2310.05036)||
+|[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/pdf/2402.17753)||
 
 ## Applications
 ### Education
