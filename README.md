@@ -23,6 +23,7 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 
 
 
+
 ## Topology & Design Space
 |Title|Type|
 |---|---|
@@ -31,44 +32,39 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |[Autogen: Enabling next-gen LLM applications via multi-agent conversations](https://openreview.net/pdf?id=BAakY1hNKS)|Local|
 |[Avalonbench: Evaluating llms playing the game of avalon](https://arxiv.org/pdf/2310.05036)|Local(With summarization)|
 |[Chain of agents: Large language models collaborating on long-context tasks](https://proceedings.neurips.cc/paper_files/paper/2024/file/ee71a4b14ec26710b39ee6be113d7750-Paper-Conference.pdf)|Local|
-|[Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control](https://arxiv.org/pdf/2505.18279)|Shared|
+|[Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control](https://arxiv.org/pdf/2505.18279)|Hybrid|
 |[CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf)|Local|
 |[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/pdf/2402.17753)|Local|
-|[Exploring Advanced LLM Multi-Agent Systems Based on Blackboard Architecture](https://arxiv.org/pdf/2507.01701)|Shared|
+|[Exploring Advanced LLM Multi-Agent Systems Based on Blackboard Architecture](https://arxiv.org/pdf/2507.01701)|Hybrid(Blackboard)|
 |[Memory as a Service (MaaS): Rethinking Contextual Memory as Service-Oriented Modules for Collaborative Agents](https://arxiv.org/pdf/2506.22815)|Hybrid|
-|[G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://arxiv.org/pdf/2506.07398)||
+|[G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://arxiv.org/pdf/2506.07398)|Shared|
 |[VOYAGER: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291)|Shared(skill library)|
 |[Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory](https://arxiv.org/pdf/2508.08997?)|Local|
 |[LangChain vs. LangGraph vs. LangSmith: Taxonomies of Agentic AI Toolchains for End-to-End Orchestration](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.175695645.52670060)||
 |[LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation](https://arxiv.org/pdf/2510.04851?)|Hybrid(orchestrator)|
-|[Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://arxiv.org/pdf/2411.04468?)||
-|[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/pdf/2504.19413?)||
-|[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/pdf/2508.16153)||
-|[Memory Sharing for Large Language Model based Agents](https://arxiv.org/pdf/2404.09982)||
-|[MetaGPT: Meta programming for a multi-agent collaborative framework](https://openreview.net/pdf?id=VtmBAGCN7o)||
-|[MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/pdf/2507.07957?)||
-|[ProAgent: Building Proactive Cooperative Agents with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/download/29710/31219)||
-|[RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory](https://arxiv.org/pdf/2508.04903)||
-|[How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)||
-|[RoCo: Dialectic Multi-Robot Collaboration with Large Language Models](https://arxiv.org/pdf/2307.04738)||
-|[SRMT: Shared Memory for Multi-agent Lifelong Pathfinding](https://arxiv.org/pdf/2501.13200?)||
-|[The Role of Social Learning and Collective Norm Formation in Fostering Cooperation in LLM Multi-Agent Systems](https://arxiv.org/pdf/2510.14401?)||
-|[Personal llm agents: Insights and survey about the capability, efficiency and security](https://arxiv.org/pdf/2401.05459)||
-|[Improving factuality and reasoning in language models through multiagent debate](https://openreview.net/pdf?id=zj7YuTE4t8)||
-|[Encouraging divergent thinking in large language models through multi-agent debate](https://aclanthology.org/2024.emnlp-main.992.pdf)||
-|[Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)||
-|[Chatdev: Communicative agents for software development](https://aclanthology.org/2024.acl-long.810.pdf)||
-|[HYPERAGENT: GENERALIST SOFTWARE ENGINEERING AGENTS TO SOLVE CODING TASKS AT SCALE](https://arxiv.org/pdf/2409.16299)||
-|[Appworld: A controllable world of apps and people for benchmarking interactive coding agents](https://arxiv.org/pdf/2407.18901)||
-|[Magentic-one: A generalist multi-agent system for solving complex tasks](https://arxiv.org/pdf/2411.04468?)||
-|[DocLens : A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding](https://www.arxiv.org/pdf/2511.11552)||
-|[OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation](https://arxiv.org/pdf/2505.23885)||
-|[Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/pdf/2502.04180)||
-|[Rema: Learning to meta-think for llms with multi-agent reinforcement learning](https://arxiv.org/pdf/2503.09501)||
-|[Multi-agent design: Optimizing agents with better prompts and topologies](https://arxiv.org/pdf/2502.02533?)||
-|[Which agent causes task failures and when? on automated failure attribution of llm multi-agent systems](https://arxiv.org/pdf/2505.00212?)||
-|[Advancing multi-agent systems through model context protocol: Architecture, implementation, and applications](https://arxiv.org/pdf/2504.21030)||
-|[Pc-agent: A hierarchical multi-agent collaboration framework for complex task automation on pc](https://arxiv.org/pdf/2502.14282)||
+|[Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://arxiv.org/pdf/2411.04468?)|Hybrid(orchestrator)|
+|[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/pdf/2508.16153)|Local|
+|[Memory Sharing for Large Language Model based Agents](https://arxiv.org/pdf/2404.09982)|Shared|
+|[MetaGPT: Meta programming for a multi-agent collaborative framework](https://openreview.net/pdf?id=VtmBAGCN7o)|Hybrid|
+|[MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/pdf/2507.07957?)|Shared|
+|[ProAgent: Building Proactive Cooperative Agents with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/download/29710/31219)|Shared|
+|[RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory](https://arxiv.org/pdf/2508.04903)|Shared|
+|[How we built our multi-agent research system](https://www.anthropic.com/engineering/multi-agent-research-system)|Hybrid(orchestrator)|
+|[RoCo: Dialectic Multi-Robot Collaboration with Large Language Models](https://arxiv.org/pdf/2307.04738)|Local(robotics)|
+|[SRMT: Shared Memory for Multi-agent Lifelong Pathfinding](https://arxiv.org/pdf/2501.13200?)|Shared|
+|[The Role of Social Learning and Collective Norm Formation in Fostering Cooperation in LLM Multi-Agent Systems](https://arxiv.org/pdf/2510.14401?)|Local|
+|[Improving factuality and reasoning in language models through multiagent debate](https://openreview.net/pdf?id=zj7YuTE4t8)|Local|
+|[Encouraging divergent thinking in large language models through multi-agent debate](https://aclanthology.org/2024.emnlp-main.992.pdf)|Local|
+|[Chatdev: Communicative agents for software development](https://aclanthology.org/2024.acl-long.810.pdf)|Local|
+|[HYPERAGENT: GENERALIST SOFTWARE ENGINEERING AGENTS TO SOLVE CODING TASKS AT SCALE](https://arxiv.org/pdf/2409.16299)|Shared|
+|[Appworld: A controllable world of apps and people for benchmarking interactive coding agents](https://arxiv.org/pdf/2407.18901)|Shared|
+|[DocLens : A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding](https://www.arxiv.org/pdf/2511.11552)|Shared|
+|[OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation](https://arxiv.org/pdf/2505.23885)|Local|
+|[Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/pdf/2502.04180)|Hybrid|
+|[Rema: Learning to meta-think for llms with multi-agent reinforcement learning](https://arxiv.org/pdf/2503.09501)|Shared|
+|[Multi-agent design: Optimizing agents with better prompts and topologies](https://arxiv.org/pdf/2502.02533?)|Shared|
+|[Which agent causes task failures and when? on automated failure attribution of llm multi-agent systems](https://arxiv.org/pdf/2505.00212?)|Local|
+|[Pc-agent: A hierarchical multi-agent collaboration framework for complex task automation on pc](https://arxiv.org/pdf/2502.14282)|Hybrid|
 
 
 
@@ -87,6 +83,8 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |---|---|
 |[Avalonbench: Evaluating llms playing the game of avalon](https://arxiv.org/pdf/2310.05036)||
 |[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/pdf/2402.17753)||
+|[Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)||
+|[Appworld: A controllable world of apps and people for benchmarking interactive coding agents](https://arxiv.org/pdf/2407.18901)||
 
 ## Applications
 ### Education
