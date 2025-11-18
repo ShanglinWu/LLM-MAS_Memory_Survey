@@ -8,9 +8,20 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |Title|Type|
 |---|---|
 |[Multi-Agent Collaboration Mechanisms: A Survey of LLMs](https://arxiv.org/pdf/2501.06322)|Multi-agent collaboration|
+|[Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems](https://arxiv.org/pdf/2502.14321)|Multi-agent communication|
+|[A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges](https://link.springer.com/content/pdf/10.1007/s44336-024-00009-2.pdf)|LLM-MAS|
+|[Large language model based multi-agents: A survey of progress and challenges](https://arxiv.org/pdf/2402.01680)|LLM-MAS|
 |[A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges](https://link.springer.com/content/pdf/10.1007/s44336-024-00009-2.pdf)|LLM-MAS|
 |[LLM Multi-Agent Systems: Challenges and Open Problems](https://arxiv.org/pdf/2402.03578)|LLM-MAS|
 |[A survey on the memory mechanism of large language model-based agents](https://arxiv.org/pdf/2404.13501)|Agent memory|
+|[From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs](https://arxiv.org/pdf/2504.15965)|Agent Memory|
+|[Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](https://arxiv.org/pdf/2505.00675)|Agent Memory|
+[LLM-Based Multi-Agent Systems for Software Engineering: Literature Review, Vision, and the Road Ahead](https://arxiv.org/pdf/2404.04834)|LLM-MAS for Software Engineering|
+|[Multi-agent embodied ai: Advances and future directions](https://arxiv.org/pdf/2505.05108?)|LLM-MAS for embodied AI|
+|[Multi-agent systems for chemical engineering: A review and perspective](https://arxiv.org/pdf/2508.07880)|LLM-MAS for chemical engineering|
+|[Augmented language models: a survey](https://arxiv.org/pdf/2302.07842)|Agentic RAG|
+
+
 
 ## Architectures and Design Space
 |Title|Type|
@@ -46,6 +57,19 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |[Improving factuality and reasoning in language models through multiagent debate](https://openreview.net/pdf?id=zj7YuTE4t8)||
 |[Encouraging divergent thinking in large language models through multi-agent debate](https://aclanthology.org/2024.emnlp-main.992.pdf)||
 |[Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)||
+|[Chatdev: Communicative agents for software development](https://aclanthology.org/2024.acl-long.810.pdf)||
+|[HYPERAGENT: GENERALIST SOFTWARE ENGINEERING AGENTS TO SOLVE CODING TASKS AT SCALE](https://arxiv.org/pdf/2409.16299)||
+|[Appworld: A controllable world of apps and people for benchmarking interactive coding agents](https://arxiv.org/pdf/2407.18901)||
+|[Magentic-one: A generalist multi-agent system for solving complex tasks](https://arxiv.org/pdf/2411.04468?)||
+|[DocLens : A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding](https://www.arxiv.org/pdf/2511.11552)||
+|[OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation](https://arxiv.org/pdf/2505.23885)||
+|[Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/pdf/2502.04180)||
+|[Rema: Learning to meta-think for llms with multi-agent reinforcement learning](https://arxiv.org/pdf/2503.09501)||
+|[Multi-agent design: Optimizing agents with better prompts and topologies](https://arxiv.org/pdf/2502.02533?)||
+|[Which agent causes task failures and when? on automated failure attribution of llm multi-agent systems](https://arxiv.org/pdf/2505.00212?)||
+|[Advancing multi-agent systems through model context protocol: Architecture, implementation, and applications](https://arxiv.org/pdf/2504.21030)||
+|[Pc-agent: A hierarchical multi-agent collaboration framework for complex task automation on pc](https://arxiv.org/pdf/2502.14282)||
+
 
 
 
@@ -91,9 +115,12 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |[AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents](https://arxiv.org/pdf/2408.08089)|Agent for Professional Development(Law)|
 |[AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation](https://arxiv.org/pdf/2403.02959)|Agent for Professional Development(Law)|
 |[Agents on the Bench: Large Language Model Based Multi Agent Framework for Trustworthy Digital Justice](https://arxiv.org/pdf/2412.18697)|Agent for Professional Development(Law)|
+|[Automated movie generation via multi-agent cot planning](https://arxiv.org/pdf/2503.07314)||
+|[Interactive debugging and steering of multi-agent ai systems](https://dl.acm.org/doi/pdf/10.1145/3706598.3713581)||
+|[Mdocagent: A multi-modal multi-agent framework for document understanding](https://arxiv.org/pdf/2503.13964?)||
+|[Multi-agent verification: Scaling test-time compute with multiple verifiers](https://arxiv.org/pdf/2502.20379?)||
 
-
-### Medicine
+### Medicine & Healthcare
 |Title|Type|
 |---|---|
 |[A Survey of LLM-based Multi-agent Systems in Medicine](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176089343.36199495/v1)|Survey|
@@ -101,6 +128,7 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |[CARE-AD: a multi-agent large language model framework for Alzheimer’s disease prediction using longitudinal clinical notes](https://www.nature.com/articles/s41746-025-01940-4)||
 |[MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://aclanthology.org/2024.findings-acl.33/)||
 |[MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents](https://arxiv.org/pdf/2501.14654)|Evaluation|
+|[MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration](https://arxiv.org/pdf/2506.19835)||
 
 
 ### Simulation and Environments
@@ -115,6 +143,7 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |[CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf)||
 |[Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/pdf/2307.05300)||
 |[AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios](https://aclanthology.org/2025.naacl-long.257.pdf)||
+|[Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf](https://arxiv.org/pdf/2309.04658)||
 
 
 ### Scientific Discovery
