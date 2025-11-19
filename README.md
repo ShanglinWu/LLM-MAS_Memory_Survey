@@ -29,6 +29,7 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |---|---|
 |[A-mem: Agentic memory for llm agents](https://arxiv.org/pdf/2502.12110)|Shared|
 |[Agentnet: Decentralized evolutionary coordination for llm-based multi-agent systems](https://arxiv.org/pdf/2504.00587)|Local(With KG)|
+|[AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents](https://arxiv.org/pdf/2407.04363)|Local(With KG)|
 |[Autogen: Enabling next-gen LLM applications via multi-agent conversations](https://openreview.net/pdf?id=BAakY1hNKS)|Local|
 |[Avalonbench: Evaluating llms playing the game of avalon](https://arxiv.org/pdf/2310.05036)|Local(With summarization)|
 |[Chain of agents: Large language models collaborating on long-context tasks](https://proceedings.neurips.cc/paper_files/paper/2024/file/ee71a4b14ec26710b39ee6be113d7750-Paper-Conference.pdf)|Local|
@@ -85,6 +86,9 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/pdf/2402.17753)||
 |[Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/pdf/2503.13657)||
 |[Appworld: A controllable world of apps and people for benchmarking interactive coding agents](https://arxiv.org/pdf/2407.18901)||
+|[Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents](https://arxiv.org/pdf/2502.20073v3)||
+|[Multiagentbench: Evaluating the collaboration and competition of llm agents](https://aclanthology.org/2025.acl-long.421.pdf)||
+|[Evaluating memory in llm agents via incremental multi-turn interactions](https://arxiv.org/pdf/2507.05257)||
 
 ## Applications
 ### Education
