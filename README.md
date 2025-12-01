@@ -66,7 +66,7 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |[Multi-agent design: Optimizing agents with better prompts and topologies](https://arxiv.org/pdf/2502.02533?)|Shared|
 |[Which agent causes task failures and when? on automated failure attribution of llm multi-agent systems](https://arxiv.org/pdf/2505.00212?)|Local|
 |[Pc-agent: A hierarchical multi-agent collaboration framework for complex task automation on pc](https://arxiv.org/pdf/2502.14282)|Hybrid|
-
+|[Latent Collaboration in Multi-Agent Systems](https://arxiv.org/pdf/2511.20639)|Shared|
 
 
 
