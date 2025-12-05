@@ -1,6 +1,6 @@
 # Memory in LLM-based Multi-agent Systems: Mechanisms, Challenges, and Collective Intelligence
 
-This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanisms, Challenges, and Collective Intelligence". In this repo we maintain a dynamically expanded paper list. 
+This is a repository page for our survey "Memory in LLM-based Multi-agent Systems: Mechanisms, Challenges, and Collective Intelligence" where we maintain a dynamically expanded paper list for each section in order to follow the latest works in this field.
 
 
 
@@ -68,6 +68,11 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 |[Pc-agent: A hierarchical multi-agent collaboration framework for complex task automation on pc](https://arxiv.org/pdf/2502.14282)|Hybrid|
 |[Latent Collaboration in Multi-Agent Systems](https://arxiv.org/pdf/2511.20639)|Shared|
 
+![An example of LLM-MAS for Collaborative Patient Diagnosis.](image.png)
+
+![Topology and placement of LLM-MAS memory](image-1.png)
+
+
 
 
 
@@ -76,7 +81,14 @@ This is a repo for our survey "Memory in LLM-based Multi-agent Systems: Mechanis
 ## Memory enabled Capabilities
 |Title|Type|
 |---|---|
-|[In-the-Flow Agentic System Optimization for Effective Planning and Tool Use](https://arxiv.org/pdf/2510.05592)||
+|[Advancing Multi-Agent Systems Through Model Context Protocol: Architecture, Implementation, and Applications](https://arxiv.org/pdf/2504.21030)|Collaboration and joint attention|
+|[Finding Common Ground: Using Large Language Models to Detect Agreement in Multi-Agent Decision Conferences](https://arxiv.org/pdf/2507.08440)|Collaboration and joint attention|
+|[AgentFlow: Resilient Adaptive Cloud-Edge Framework for Multi-Agent Coordination](https://arxiv.org/pdf/2505.07603)|Collaboration and joint attention|
+|[Plan-and-act: Improving planning of agents for long-horizon tasks](https://arxiv.org/pdf/2503.09572)|Long-horizon planning and knowledge reuse|
+|[Neural recursive belief states in multi-agent reinforcement learning](https://arxiv.org/pdf/2102.02274)|Social cognition and Theory of Mind|
+|[Advanced Game-Theoretic Frameworks for Multi-Agent AI Challenges: A 2025 Outlook](https://arxiv.org/pdf/2506.17348)|Social cognition and Theory of Mind|
+|[An Open-Ended Learning Framework for Opponent Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/34488/36643)|Social cognition and Theory of Mind|
+|[Lifelong learning of large language model based agents: A roadmap](https://arxiv.org/pdf/2501.07278?)|Lifelong team learning|
 
 
 ## Evaluation
