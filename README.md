@@ -69,8 +69,10 @@ This is a repository page for our survey "Memory in LLM-based Multi-agent System
 |[Latent Collaboration in Multi-Agent Systems](https://arxiv.org/pdf/2511.20639)|Shared|
 
 ![An example of LLM-MAS for Collaborative Patient Diagnosis.](image.png)
+An example of LLM-MAS for Collaborative Patient Diagnosis.
 
 ![Topology and placement of LLM-MAS memory](image-1.png)
+Topology and placement of LLM-MAS memory
 
 
 
